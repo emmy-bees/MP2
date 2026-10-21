@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MP2/MP2.vcxproj" Id="86aee929-5da6-4482-be32-9870d6c0a1dc" />
+</Solution>
